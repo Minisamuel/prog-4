@@ -1,0 +1,6 @@
+[submodule "prog-4-practicals-Minisamuel"]
+	path = prog-4-practicals-Minisamuel
+	url = https://github.com/otago-polytechnic-bit-courses/prog-4-practicals-Minisamuel.git
+[submodule "prog-4-course-materials"]
+	path = prog-4-course-materials
+	url = https://github.com/otago-polytechnic-bit-courses/prog-4-course-materials.git
